@@ -9463,8 +9463,8 @@ object main: Tmain
       D7900FBB8242016FF83AFD8AF63104911D61E4E022BBE4388BEF771032F6EAFC
       351D5D8F2188EC08238741882484FF0F7F0161EEE0921C0D4577000000004945
       4E44AE426082}
-    ExplicitLeft = 46
-    ExplicitTop = -72
+    ExplicitLeft = 79
+    ExplicitTop = -48
   end
   object CategoryPanelGroup1: TCategoryPanelGroup
     Left = 0
